@@ -2,7 +2,9 @@ RENCANA BELAJAR
 
 - JAVASCRIPT
   - Framework
+   ~ vue
 - PHP
   - CodeIgniter
   - Laravel
 - Struktur Data
+- PYTHON
