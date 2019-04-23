@@ -1,0 +1,7 @@
+RENCANA BELAJAR
+
+- JAVASCRIPT
+  - Framework
+- PHP
+  - CodeIgniter
+  - Laravel
