@@ -2,6 +2,8 @@ RENCANA BELAJAR
 
 - JAVASCRIPT
   - Framework
+    ~ Angular
+    ~ React.js
 - PHP
   - CodeIgniter
   - Laravel
