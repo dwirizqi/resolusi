@@ -5,3 +5,4 @@ RENCANA BELAJAR
 - PHP
   - CodeIgniter
   - Laravel
+- Struktur Data
